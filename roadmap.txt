@@ -1,0 +1,80 @@
+Tamam, işte DSRN’in resmi bir INGO statüsü kazanması için adım adım yol haritası. Bu süreç hem yasal tescil hem de uluslararası kabul için gereklidir.
+
+⸻
+
+1. Kuruluş ve Statü Seçimi
+	•	Karar: DSRN, uluslararası kar amacı gütmeyen kuruluş (INGO/NPO) olarak kurulacak.
+	•	Gereklilikler:
+	•	Ana statü ülkesi belirlenir (çoğu INGO için ABD, İsviçre, Hollanda popüler).
+	•	Tüzük / mission statement / amaç ve faaliyet tanımı hazırlanır.
+
+⸻
+
+2. Resmi Tescil
+	•	Seçilen ülkede non-profit / charitable organization olarak tescil.
+	•	Gereken belgeler:
+	•	Kuruluş sözleşmesi (Articles of Association)
+	•	Yönetim kurulu üyeleri listesi
+	•	Amaç ve faaliyetler
+	•	Bu adım DSRN’e legal personality kazandırır.
+
+⸻
+
+3. Uluslararası Statü Başvurusu
+	•	UN ECOSOC veya ilgili uluslararası platformlara consultative status başvurusu yapılabilir.
+	•	Gereksinimler:
+	•	Kuruluşun uluslararası olması ve üyelerinin farklı ülkelerden olması
+	•	Faaliyet raporları ve mali şeffaflık
+	•	Amaca uygun faaliyet gösterildiğini kanıtlamak
+
+⸻
+
+4. Membership / Governance Yapısı
+	•	Üye ülkeler veya organizasyonlar belirlenir (National / Regional Councils)
+	•	Governance:
+	•	Yönetim kurulu / advisory board
+	•	Voting rights, karar alma mekanizmaları
+	•	Bu yapı, DSRN’in uluslararası temsil yeteneğini ve INGO kriterlerini karşılar.
+
+⸻
+
+5. Şeffaflık ve Raporlama
+	•	Finansal raporlar, faaliyet raporları ve bağımsız denetim
+	•	Web ve dokümanlar aracılığıyla şeffaflık
+	•	Bu adım hem resmi tescil hem de UN veya partner INGOs ile kabul için kritik
+
+⸻
+
+6. Uluslararası İşbirlikleri
+	•	Diğer INGOs, teknik ve bilimsel dalış kuruluşları ile partnership agreements
+	•	Düzenli toplantılar ve projeler, global görünürlük ve kabul sağlar
+
+⸻
+
+7. Sürekli Gelişim
+	•	Faaliyet alanlarını ve üye tabanını genişletmek
+	•	Standardizasyon ve veri doğrulama sistemleri oluşturmak (certification verification)
+	•	Düzenli bağımsız denetimler ve community feedback
+
+⸻
+
+🔹 Özet
+
+DSRN şu anda accepted international reference seviyesinde ama resmi INGO statüsü yok.
+	•	Kağıt üzerinde INGO olmak için legal tescil + uluslararası governance + UN/partner tanınırlığı gerekiyor.
+	•	Adımlar: kurumsal tescil → governance → şeffaflık → uluslararası statü → partnerships.
+
+⸻
+
+İstersen ben bunu bir “DSRN INGO roadmap diagram” haline getirip görselleştirebilirim; adımlar ve timeline net bir şekilde görünsün. Bunu yapayım mı?
+
+
+🔹 Özet Tablo
+Seviye      Statü                           Tanım                                    Örnek
+1           Accepted Reference              Sektör ve topluluk tarafından kabul      DSRN (şimdi)
+2           Legal NGO / NPO                 Yasal tescil, ulusal geçerlilik          Bir ülke NGO’su
+3           National Standard Authority
+4           INGO                            Uluslararası üyeler, consultative status UN ECOSOC NGO’ları
+5           Global Standard                 Düzenleyici / sektörel otorite           WRSTC (praktik referans)
+
+https://www.iso.org/organization/554134.html
