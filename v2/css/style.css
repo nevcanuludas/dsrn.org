@@ -360,7 +360,7 @@ a:hover {
 }
 .search-box .inner form input[type="submit"] {
   height: 70px;
-  background: #009a4e;
+  background: #0082c8;
   border: none;
   font-weight: 600;
   padding: 0 60px;
@@ -585,7 +585,7 @@ a:hover {
   max-width: 100%;
   display: flex;
   flex-wrap: wrap;
-  background: url("../images/pattern-bg.png") center #009a4e;
+  background: url("../images/pattern-bg.png") center #0082c8;
   color: #fff;
   background-size: cover;
   position: absolute;
@@ -793,7 +793,7 @@ a:hover {
 }
 .header .main-slider .swiper-slide .slide-inner a:hover {
   color: #fff;
-  background: #009a4e;
+  background: #0082c8;
   text-decoration: none;
   transform: translateY(-5px);
 }
@@ -983,7 +983,7 @@ a:hover {
 }
 .custom-button:hover {
   color: #fff;
-  background: #009a4e;
+  background: #0082c8;
   text-decoration: none;
   transform: translateY(-5px);
 }
@@ -1064,7 +1064,7 @@ a:hover {
   left: -50px;
   bottom: 100px;
   z-index: 1;
-  color: #009a4e;
+  color: #0082c8;
   font-family: "Oduda";
   font-size: 30px;
   padding: 20px 30px;
@@ -1097,12 +1097,12 @@ a:hover {
 }
 .side-content h2 {
   font-size: 80px;
-  color: #009a4e;
+  color: #0082c8;
   font-family: "Oduda";
 }
 .side-content h5 {
   font-size: 36px;
-  color: #009a4e;
+  color: #0082c8;
   font-family: "Oduda";
   margin-bottom: 30px;
 }
@@ -1144,7 +1144,7 @@ a:hover {
   line-height: 100px;
   text-align: center;
   font-size: 28px;
-  color: #009a4e;
+  color: #0082c8;
   background: #fff;
   border-radius: 50%;
   position: absolute;
@@ -1161,7 +1161,7 @@ a:hover {
   width: 75%;
   display: flex;
   flex-wrap: wrap;
-  background: #009a4e;
+  background: #0082c8;
   color: #fff;
   position: absolute;
   right: 30px;
@@ -1177,7 +1177,7 @@ a:hover {
   height: 0;
   border-style: solid;
   border-width: 0 15px 20px 0;
-  border-color: transparent transparent #009a4e transparent;
+  border-color: transparent transparent #0082c8 transparent;
   position: absolute;
   top: -20px;
   left: 30px;
@@ -1258,7 +1258,7 @@ a:hover {
   display: block;
   margin-bottom: 20px;
   font-size: 36px;
-  color: #009a4e;
+  color: #0082c8;
   font-family: "Oduda";
 }
 .image-content-box figure {
@@ -1410,7 +1410,7 @@ a:hover {
   opacity: 0.1;
 }
 .carousel-image-box .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active {
-  background: #009a4e;
+  background: #0082c8;
   opacity: 1;
 }
 
@@ -1425,7 +1425,7 @@ a:hover {
   width: 100%;
   display: block;
   font-size: 90px;
-  color: #009a4e;
+  color: #0082c8;
   font-family: "Oduda";
   line-height: 1;
   margin-bottom: 20px;
@@ -1627,7 +1627,7 @@ a:hover {
   display: block;
   font-size: 30px;
   font-family: "Oduda";
-  color: #009a4e;
+  color: #0082c8;
   margin-bottom: 20px;
 }
 
@@ -1848,7 +1848,7 @@ a:hover {
 .services-list-box h2 {
   font-size: 50px;
   font-family: "Oduda";
-  color: #009a4e;
+  color: #0082c8;
   line-height: 1;
   margin-bottom: 20px;
 }
@@ -2046,7 +2046,7 @@ a:hover {
   position: absolute;
   right: -80px;
   top: 0;
-  background: #009a4e;
+  background: #0082c8;
 }
 
 /* LATEST NEWS */
@@ -2146,7 +2146,7 @@ a:hover {
   background: #000;
 }
 .carousel-testimonials .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active {
-  background: #009a4e;
+  background: #0082c8;
 }
 
 .testimonial {
@@ -2154,7 +2154,7 @@ a:hover {
   display: flex;
   flex-wrap: wrap;
   padding: 70px;
-  background: #009a4e;
+  background: #0082c8;
   color: #fff;
   position: relative;
   z-index: 2;
@@ -2166,7 +2166,7 @@ a:hover {
   height: 0;
   border-style: solid;
   border-width: 0 0 20px 15px;
-  border-color: transparent transparent #009a4e transparent;
+  border-color: transparent transparent #0082c8 transparent;
   position: absolute;
   left: -15px;
   top: 20%;
@@ -2353,7 +2353,7 @@ a:hover {
 .blog-post .post-content blockquote {
   width: 100%;
   display: block;
-  background: #009a4e;
+  background: #0082c8;
   padding: 30px;
   color: #fff;
 }
@@ -2390,7 +2390,7 @@ a:hover {
   border-bottom: 1px solid #eee;
   font-size: 24px;
   font-weight: 800;
-  color: #009a4e;
+  color: #0082c8;
   font-family: "Oduda";
   padding-top: 10px;
   padding-bottom: 30px;
@@ -2401,7 +2401,7 @@ a:hover {
   content: "";
   width: 60px;
   height: 1px;
-  background: #009a4e;
+  background: #0082c8;
   position: absolute;
   left: 0;
   bottom: -1px;
@@ -2427,7 +2427,7 @@ a:hover {
   width: 6px;
   height: 6px;
   border-radius: 50%;
-  background: #009a4e;
+  background: #0082c8;
   position: absolute;
   left: 0;
   top: 9px;
@@ -2454,7 +2454,7 @@ a:hover {
   display: flex;
   flex-wrap: wrap;
   padding: 50px;
-  background: #009a4e;
+  background: #0082c8;
   border-radius: 6px;
 }
 .contact-form .form-group {
@@ -2559,7 +2559,7 @@ a:hover {
   display: flex;
   flex-wrap: wrap;
   padding-top: 100px;
-  background: url("../images/pattern-bg.png") center #009a4e;
+  background: url("../images/pattern-bg.png") center #0082c8;
   background-size: cover;
   color: #fff;
   border-top: 3px solid #fbc50b;
